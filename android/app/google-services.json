@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441964161155",
+    "project_id": "flashy-chat-7885c",
+    "storage_bucket": "flashy-chat-7885c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441964161155:android:536b29f2e2cc64758c53b6",
+        "android_client_info": {
+          "package_name": "com.example.flashy_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441964161155-i6fa2uislmvok3utp0rfeoiv7mvem6hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiUg4K1-gZ8z0DJaqbBlbes2Z1YzAC0iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441964161155-i6fa2uislmvok3utp0rfeoiv7mvem6hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
